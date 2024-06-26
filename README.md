@@ -1,6 +1,10 @@
 # Ricardo Siller Cardenas
 
-With 15 years of experience in Account Management, Business Development and Consulting, including roles in Europe, I have developed a deep expertise in these fields. I am particularly passionate about Business Intelligence and Data Analytics, and I have undertaken self-directed learning in coding languages to enhance my skills. I am dedicated to continuous improvement in my professional journey.
+With 15 years of experience in Account Management, Business Development, and Consulting, including roles in Europe, I've honed my skills and developed deep expertise in these fields. Throughout my career, I've had the privilege of working with high-profile clients, successfully managing accounts, driving business development initiatives, and providing strategic consulting services. My passion for Business Intelligence and Data Analytics has led me to self-directed learning in coding languages to enhance my skills further.
+
+I'm dedicated to continuous improvement in my professional journey, focusing on leveraging data to drive business success. My goal is to transition into a career in Data Analysis, where I can utilize my analytical skills and business acumen to facilitate data-driven decision-making. I aim to apply my proficiency in SQL and Python, along with my hands-on experience in Business Intelligence, to help organizations harness the power of data.
+
+This GitHub repository showcases a variety of projects that demonstrate my skills in data analysis, including work with SQL, Python, and various data visualization tools. These projects highlight my ability to apply analytical techniques to real-world business problems, providing valuable insights and actionable recommendations.
 
 ## Skills
 
@@ -19,11 +23,12 @@ With 15 years of experience in Account Management, Business Development and Cons
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue)
 ![Bash](https://img.shields.io/badge/Bash-Scripting-black)
 
-## Contact
+## Feel free to Contact Me
 
 - [LinkedIn](https://www.linkedin.com/in/ricardosiller/)
 - Email: ricardo.sillercardenas@gmail.com
 
+I'm eager to connect and discuss how I can contribute to your organization's success through data-driven insights and strategies.
 
 <!--
 **ricardosillercardenas/ricardosillercardenas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
